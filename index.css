@@ -18,8 +18,15 @@ p {
     margin-bottom: 0;
 }
 
+
+/* .navbar-brand>img {
+    height: 200%;
+    padding: 0px;
+    width: 10%;
+} */
+
 .jumbotron {
-    background: #27A967;
+    background: rgb(19, 226, 226);
     color: white;
     text-align: center;
 }
@@ -46,7 +53,7 @@ p {
 }
 
 .navbar-inverse .navbar-nav li a:hover {
-    background: #27A967;
+    background: rgb(19, 226, 226);
 }
 
 .navbar-inverse .navbar-nav .dropdown-menu li a:hover {
@@ -65,7 +72,7 @@ p {
 }
 
 .btn-primary:hover {
-    color: #27A967;
+    color: rgb(19, 226, 226);
     background-color: white;
     border-color: white;
 }
